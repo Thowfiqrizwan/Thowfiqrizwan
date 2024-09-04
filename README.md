@@ -49,16 +49,13 @@
 <h2 align="center">⚡️ Where to find me ⚡️</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ThowfiqRizwanM" target="_blank">
+  <a href="https://www.linkedin.com/in/thowfiq-rizwan-m/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/Thowfiq_keyboardist" target="_blank">
+  <a href="https://www.instagram.com/thowfiq_keyboardist/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"/>
   </a>
-  <a href="https://www.dribbble.com/ThowfiqRizwanM" target="_blank">
-    <img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble"/>
-  </a>
-  <a href="https://www.behance.net/ThowfiqRizwanM" target="_blank">
+  <a href="https://www.behance.net/thowfiqthowfiq" target="_blank">
     <img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance"/>
   </a>
 </p>
