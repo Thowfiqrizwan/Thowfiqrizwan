@@ -4,9 +4,9 @@
 
 <div align="center">
   <p align="left">
-    🔭 <strong>Current Focus:</strong> Working on frontend development projects.<br>
-    🌱 <strong>Learning:</strong> Advancing skills in frontend development.<br>
-    💬 <strong>Expertise:</strong> Available for discussions on JavaScript, React, HTML/CSS, and ReactJS
+    🔭 <strong>Current Focus:</strong> Working on Frontend Development Projects.<br>
+    🌱 <strong>Learning:</strong> Advancing skills in Frontend Development.<br>
+    💬 <strong>Expertise:</strong> Available for discussions on HTML/CSS, and JavaScript 
   </p>
 </div>
 
