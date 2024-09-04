@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+THOWFIQ+RIZWAN!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🔭 <strong>Current Focus:</strong> Working on UI/UX design projects and frontend development.<br>
-  🌱 <strong>Learning:</strong> Advancing skills in frontend development.<br>
-  💬 <strong>Expertise:</strong> Available for discussions on JavaScript, React, HTML/CSS, and ReactJS
-</p>
+<div align="center">
+  <p align="left">
+    🔭 <strong>Current Focus:</strong> Working on UI/UX design projects and frontend development.<br>
+    🌱 <strong>Learning:</strong> Advancing skills in frontend development.<br>
+    💬 <strong>Expertise:</strong> Available for discussions on JavaScript, React, HTML/CSS, and ReactJS
+  </p>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
