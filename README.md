@@ -1,74 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thowfiqrizwan.thowfiqrizwan" />
+<center>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+THOWFIQ+RIZWAN!;" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thowfiq+Rizwan!;" />
-</h1>
+🔭 Current Focus: Working on UI/UX design projects and frontend development.
 
-<h3 align="center">A passionate Frontend Developer and UI/UX Designer from India 🇮🇳</h3>
+🌱 Learning: Advancing skills in frontend development.
 
-<br/>
-
-<div align="center">
-  🔭 I’m currently working on **UI/UX design projects and frontend development**
-  <br>
-  🌱 I’m currently learning **Objective research in UI design, Docker, and cloud technologies**
-  <br>
-  💬 Ask me about **JavaScript, React, HTML/CSS... or anything [here](https://github.com/thowfiqrizwan/thowfiqrizwan/issues)**
-  <br>
-  ⚡ Fun fact **I enjoy exploring logistics and shipping technologies**
-</div>
-
-<div align="center"> 
-  <a href="mailto:thowfiqkeyboardist@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/thowfiq-rizwan-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://thowfiqrizwan.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,twitter,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thowfiqrizwan/thowfiqrizwan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-thowfiqrizwan.vercel.app/?user=thowfiqrizwan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-thowfiqrizwan.vercel.app/api?username=thowfiqrizwan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-thowfiqrizwan.vercel.app/api/top-langs/?username=thowfiqrizwan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/thowfiqrizwan' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+💬 Expertise: Available for discussions on JavaScript,React, HTML/CSS and ReactJS
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me ⚡️</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/Thowfiq Rizwan M " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/Thowfiq_keyboardist" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.dribbble.com/Thowfiq Rizwan M " style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
+<a target="_blank" href="https://www.behance.net/Thowfiq Rizwan M " style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
+</center>
